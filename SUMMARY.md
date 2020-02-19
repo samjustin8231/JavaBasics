@@ -51,6 +51,8 @@
         * [如何在启动系统的时候设置JVM参数](JVM实战/JVM参数/如何在启动系统的时候设置JVM参数.md)
     * [JVM工具使用](JVM实战/JVM工具使用.md)
         * [jstat](JVM实战/JVM工具使用/jstat.md)
+        * [jmap](JVM实战/JVM工具使用/jmap.md)
+        * [jhat](JVM实战/JVM工具使用/jhat.md)
     * [案例实战](JVM实战/案例实战.md)
         * [每日百万交易的支付系统，设置JVM堆内存大小](JVM实战/案例实战/每日百万交易的支付系统设置JVM堆内存大小.md)
         * [日处理上亿数据的计算系统频繁FullGC](JVM实战/案例实战/日处理上亿数据的计算系统频繁FullGC.md)
